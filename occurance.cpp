@@ -35,7 +35,7 @@ void occurance::repeat(int list[],int size)
     {
         if(list[i]==large)
         {
-            occur++;
+            occur=occur+1;
         }
     }
     cout<<"number of occurance"<<occur;
