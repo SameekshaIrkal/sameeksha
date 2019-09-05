@@ -1,4 +1,4 @@
-//Maximum element in list
+
 #include <iostream>
 using namespace std;
 class  occurance
